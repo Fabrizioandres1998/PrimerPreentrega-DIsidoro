@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Remera",
+		"description": "Remera blanca",
+		"price": 100,
+		"status": true,
+		"category": "remeras"
+	},
+	{
+		"id": 2,
+		"title": "Pantalon",
+		"description": "Pantalon de jean",
+		"price": 110,
+		"status": true,
+		"category": "pantalones"
+	},
+	{
+		"id": 3,
+		"title": "Campera",
+		"description": "Campera algodon",
+		"price": 200,
+		"status": true,
+		"category": "abrigos"
+	},
+	{
+		"id": 4,
+		"title": "Buzo",
+		"description": "Buzo deportivo",
+		"price": 100,
+		"status": true,
+		"category": "abrigos"
+	},
+	{
+		"id": 5,
+		"title": "Camisa",
+		"description": "Camisa negra",
+		"price": 150,
+		"status": true,
+		"category": "camisas"
+	},
+	{
+		"id": 6,
+		"title": "Chaleco",
+		"description": "Chaleco rojo",
+		"price": 190,
+		"status": true,
+		"category": "abrigos"
+	}
+]
